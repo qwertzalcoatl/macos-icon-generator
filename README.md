@@ -6,9 +6,9 @@ This Python script generates macOS app icons with the correct shape and sizes. I
 
 ## Credit and Inspiration
 
-This implementation is based on the outstanding work done by Liam Rosenfeld, as detailed in his blog post ["My Quest for the Apple Icon Shape"](https://liamrosenfeld.com/posts/apple-icon-shape/). Liam's work in reverse-engineering the exact mathematics behind macOS app icons is truly impressive.
+This implementation is based on the outstanding work done by Liam Rosenfeld, as detailed in his blog post ["My Quest for the Apple Icon Shape"][https://liamrosenfeld.com/posts/apple-icon-shape/](https://liamrosenfeld.com/posts/apple_icon_quest/)). Liam's work in reverse-engineering the exact mathematics behind macOS app icons is truly impressive. He has build his own Icon generator, but I couldn't access it at the time of writing this. 
 
-If you're interested in the deep dive into the geometry and math behind these icons, I highly recommend reading Liam's original post. 
+In any case, if you're interested in the deep dive into the geometry and math behind these icons, I highly recommend reading Liam's original post. 
 
 ## Why This Exists
 
